@@ -1,0 +1,11 @@
+# Nextflow
+.nextflow/
+.nextflow.log*
+work/
+
+# Résultats (trop lourds pour git)
+results/
+
+# Données (trop lourdes pour git)
+data/
+env/
